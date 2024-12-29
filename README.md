@@ -1,0 +1,6 @@
+# NFT/USDT代扣接口ERC20/TRC20/BSC/OKX欧意钱包授权质押提币Permit2抢跑/防跑/拦截
+
+专业区块链开发，有相关需求可以直接联系咨询交流。<br>NFT/USDT代扣接口ERC20/TRC20/BSC/OKX欧意钱包授权质押提币Permit2，基于springboot开发！<br>抢跑/防跑/拦截 请咨询客服<br>前台测试地址：<br>example.com/<br>后台测试地址：<br>example.com/<br>测试账号：test001 密码 test123456<br>主要特点：<br>1、自动归集至冷钱包地址，安全可靠。<br>2、自动充值到账、资金自动归集、可以对接到任何网站,只需要进行调用即可<br>3、省去手动归集繁琐步骤<br>使用说明：<br>example.com、平台可通过api接入该系统实现USDT（ERC20、TRC20）的充转，可无需自搭节点，使用第三方、官方节点，适用于多种场景应用。（自建节点的可免费搭建节点）<br>example.com，新人都会，如果不会本人提供技术指导，接口可以对接到任何平台，方便快捷！<br>example.com，详细咨询客服<br>example.com<br>example.com（可以后台设置手动回调）<br>前台界面：<br>后台界面：<br><br>声明:<br>example.com,由于源码的可复制性,商品如果没有本身的功能问题，不接受退款，example.com,需在本订单完成后单独进行（无需再次付费）<br>example.com,请您在购买前咨询店主.<br>example.com，不得违反国家法律，否则后果自负！购买以后用作他用附带的一切法律责任后果都由购买者承担于本店无任何关系！<br>example.com.<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/babMi" style="color: red;">https://mega-file.org/babMi</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
